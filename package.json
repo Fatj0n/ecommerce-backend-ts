@@ -50,7 +50,7 @@
         "nodemailer": "^7.0.11",
         "pdfkit-table": "^0.1.99",
         "sequelize": "^6.37.3",
-        "socket.io": "^4.8.1",
+        "socket.io": "^4.8.3",
         "stripe": "^16.11.0",
         "swagger-jsdoc": "^6.2.8",
         "swagger-ui-express": "^5.0.1",
